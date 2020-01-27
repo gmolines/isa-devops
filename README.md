@@ -1,4 +1,4 @@
-# Introduction to Software Architecture & DevOps (2018-19)
+# Introduction to Software Architecture & DevOps (2019-20)
 
 ## Rationale
 
@@ -9,7 +9,7 @@ The course is scheduled each Friday, during semester #8. The course requires to 
 The whole project relies on an open-source reference implementation of _The Cookie Factory_, a system to sell cookies to delighted customers, which will been made available to you within the Github classroom we'll be using for the exercices..
 
 
-A paper (extended abstract) describing this course is published in the "_First international workshop on software engineering aspects of continuous development and new paradigms of software production and deployment"_ (_aka_ [DevOps'18](https://www.laser-foundation.org/devops/2018/)), and available here: [devops_paper.pdf](https://github.com/collet/isa-devops/blob/master/devops_paper.pdf).
+A paper (extended abstract) describing this course is published in the "_First international workshop on software engineering aspects of continuous development and new paradigms of software production and deployment"_ (_aka_ [DevOps'18](https://www.laser-foundation.org/devops/2018/)), and available here: [devops_paper.pdf](https://github.com/gmolines/isa-devops/blob/master/devops_paper.pdf).
 
 ## Teaching Staff
 
@@ -21,17 +21,17 @@ A paper (extended abstract) describing this course is published in the "_First i
 
 ### Specific pages (e.g., lectures material, deliverable contents)
 
-  * [Introduction to Software Architecture](https://github.com/collet/isa-devops/tree/master/ISA/README.md)
-  * [DevOps & Continuous Testing](https://github.com/collet/isa-devops/tree/master/DevOps/README.md)
+  * [Introduction to Software Architecture](https://github.com/gmolines/isa-devops/tree/master/ISA/README.md)
+  * [DevOps & Continuous Testing](https://github.com/gmolines/isa-devops/tree/master/DevOps/README.md)
 
 ### Case study description: 
 
-  * [Poly'Diploma](https://github.com/collet/isa-devops/blob/master/PolyDiploma_ISA_DevOps.pdf)
+  * [Will be here](https://github.com/gmolines/isa-devops/blob/master/tbd.pdf)
 
 
 ## Planning 
 
-![Planning](https://github.com/collet/isa-devops/blob/master/planning.png)
+![Planning](https://github.com/gmolines/isa-devops/blob/master/planning.png)
 
   - Blue sessions are related to _ISA_
   - Green sessions are related to _DevOps_
@@ -49,13 +49,13 @@ Even if the case study is shared and the course merged, this is administratively
 
 Evaluation is organized as follows:
 
-  - _Introduction to Software Architecture_ : https://github.com/collet/isa-devops/blob/master/ISA/README.md
+  - _Introduction to Software Architecture_ : https://github.com/gmolines/isa-devops/blob/master/ISA/README.md
     - Architecture report: 15%
     - Intermediate demonstration: 10%
     - Final presentation: 15%
     - Project (code + report): 20% (deadline: May 14th, 2019, 8pm)
     - Final exam: 40%
-  - _DevOps & Continuous Testing_ : https://github.com/collet/isa-devops/blob/master/DevOps/README.md
+  - _DevOps & Continuous Testing_ : https://github.com/gmolines/isa-devops/blob/master/DevOps/README.md
 	- Intermediate demonstration: 20%	
 	- Final presentation: 20%
 	- Project (code + report): 20% (deadline: May 14th, 2019, 8pm)
