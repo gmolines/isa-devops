@@ -41,7 +41,7 @@ A paper (extended abstract) describing this course is published in the "_First i
 
 Deliveries are automatically extracted from the _github_ repository of the team.
 
-to be completed
+- Monday, February 17th: first architecture report
   
 ### Evaluation
 
