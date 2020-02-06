@@ -26,7 +26,7 @@ A paper (extended abstract) describing this course is published in the "_First i
 
 ### Case study description: 
 
-  * [Will be here](https://github.com/gmolines/isa-devops/blob/master/tbd.pdf)
+  * [Drone Delivery](https://github.com/gmolines/isa-devops/blob/master/DroneDelivery.pdf)
 
 
 ## Planning 
